@@ -627,3 +627,4 @@ h1, h2, h3, .label, .nav a, .stat-num, .founder-name, .founder-role, .btn, .stat
 .app-visual--thoughts { background-size: auto 115%; }
 .anim .label.hero-in { display: inline-flex; }
 .anim p.hero-in { display: block; }
+.hero h1 .line { display: block; }
